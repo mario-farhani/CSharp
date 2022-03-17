@@ -1,0 +1,11 @@
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\bin\Debug\AccesssModifiers.exe.config
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\bin\Debug\AccesssModifiers.exe
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\bin\Debug\AccesssModifiers.pdb
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\obj\Debug\AccesssModifiers.csproj.AssemblyReference.cache
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\obj\Debug\AccesssModifiers.csproj.SuggestedBindingRedirects.cache
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\obj\Debug\AccesssModifiers.csproj.CoreCompileInputs.cache
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\obj\Debug\AccesssModifiers.exe
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\obj\Debug\AccesssModifiers.pdb
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\bin\Debug\AccessModifierLibrary.dll
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\bin\Debug\AccessModifierLibrary.pdb
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccesssModifiers\obj\Debug\AccesssModifiers.csproj.CopyComplete

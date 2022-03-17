@@ -1,0 +1,9 @@
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\bin\Debug\MyInterface.dll
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\bin\Debug\MyInterface.pdb
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\obj\Debug\MyLibrary.csproj.CopyComplete
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyLibrary\obj\Debug\MyLibrary.pdb

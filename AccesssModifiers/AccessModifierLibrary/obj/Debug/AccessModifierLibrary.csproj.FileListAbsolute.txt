@@ -1,0 +1,6 @@
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccessModifierLibrary\bin\Debug\AccessModifierLibrary.dll
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccessModifierLibrary\bin\Debug\AccessModifierLibrary.pdb
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccessModifierLibrary\obj\Debug\AccessModifierLibrary.csproj.AssemblyReference.cache
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccessModifierLibrary\obj\Debug\AccessModifierLibrary.csproj.CoreCompileInputs.cache
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccessModifierLibrary\obj\Debug\AccessModifierLibrary.dll
+C:\Innomate\Projects\TutorialC#\AccesssModifiers\AccessModifierLibrary\obj\Debug\AccessModifierLibrary.pdb

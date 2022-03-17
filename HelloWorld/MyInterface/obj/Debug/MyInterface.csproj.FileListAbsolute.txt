@@ -1,0 +1,6 @@
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyInterface\bin\Debug\MyInterface.dll
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyInterface\bin\Debug\MyInterface.pdb
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyInterface\obj\Debug\MyInterface.csproj.AssemblyReference.cache
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyInterface\obj\Debug\MyInterface.csproj.CoreCompileInputs.cache
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyInterface\obj\Debug\MyInterface.dll
+C:\Innomate\Projects\TutorialC#\HelloWorld\MyInterface\obj\Debug\MyInterface.pdb
